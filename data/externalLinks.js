@@ -1,32 +1,27 @@
 export default [
 	{
-		text: "Codechef",
+		text: "Blog",
 		color: "firebrick",
-	    link: "https://www.codechef.com/users/somawatvinay"
+	    link: "https://medium.com/cloudinfra-guru"
     },
     {
 		text: "StackOverflow",
 		color: "darkorange",
-	    link: "https://stackoverflow.com/users/8461233/vinay-somawat"
+	    link: "https://stackoverflow.com/users/5002723/vaibhav-walke"
     },
     {
-		text: "Geekforgeeks",
+		text: "LinkedIn",
 		color: "darkgreen",
-	    link: "https://auth.geeksforgeeks.org/user/somawatvinay/profile"
+	    link: "https://www.linkedin.com/in/vaibhav-walke1/"
     },
     {
-		text: "HackerEarth",
-		color: "dimgrey",
-	    link: "https://www.hackerearth.com/@somawatvinay"
-    },
-    {
-		text: "HackerRank",
+		text: "Medium",
 		color: "forestgreen",
-	    link: "https://www.hackerrank.com/somawatvinay"
+	    link: "https://medium.com/@vaibhav.walke"
     },
     {
 		text: "GitHub",
 		color: "black",
-	    link: "https://github.com/vinaysomawat"
+	    link: "https://github.com/vaibhav-walke"
     }
 ];
