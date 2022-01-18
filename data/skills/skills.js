@@ -1,47 +1,47 @@
 export default [
 	{
-		skillName: "JavaScript, C++",
+		skillName: "Amazon Web Services",
 		color: "1",
-	    percentage: "70"
+	    percentage: "85"
     },
     {
-		skillName: "Angular, Reactjs",
+		skillName: "GCP",
 		color: "6",
-	    percentage: "50"
+	    percentage: "75"
 	},
     {
-		skillName: "Nodejs, MongoDB",
+		skillName: "Docker",
 		color: "2",
-	    percentage: "40"
+	    percentage: "90"
 	},
     {
-		skillName: "AWS(EC2, S3), Heroku, Netlify",
-		color: "3",
-	    percentage: "30"
-	},
-    {
-		skillName: "HTML, Bootstrap, SCSS",
-		color: "4",
-	    percentage: "70"
-	},
-    {
-		skillName: "GitHub, JIRA, Trello",
-		color: "7",
-	    percentage: "70"
-	},
-    {
-		skillName: "Postman, Chrome DevTools",
+		skillName: "Kubernetes",
 		color: "3",
 	    percentage: "80"
 	},
     {
-		skillName: "CleverTap, FreshDesk",
-		color: "5",
-	    percentage: "50"
+		skillName: "Azure",
+		color: "4",
+	    percentage: "80"
 	},
     {
-		skillName: "VS Code",
-		color: "6",
-	    percentage: "70"
+		skillName: "Cloud Security Standatrds",
+		color: "7",
+	    percentage: "80"
+	},
+    {
+		skillName: "Cloud Architecting",
+		color: "3",
+	    percentage: "80"
+	},
+    {
+		skillName: "Microservices",
+		color: "3",
+	    percentage: "80"
+	},
+    {
+		skillName: "Terraform",
+		color: "3",
+	    percentage: "80"
 	}
 ];
